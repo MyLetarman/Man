@@ -1,2 +1,0 @@
-# Man
-Tugas/Data/Mini
